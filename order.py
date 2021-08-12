@@ -1,0 +1,1 @@
+print(org('A'))
